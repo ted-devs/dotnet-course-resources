@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lecture_4_arithmetic
+build_property.ProjectDir = D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\

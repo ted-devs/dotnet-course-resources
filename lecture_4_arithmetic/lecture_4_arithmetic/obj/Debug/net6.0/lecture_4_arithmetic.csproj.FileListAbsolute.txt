@@ -1,0 +1,15 @@
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\bin\Debug\net6.0\lecture_4_arithmetic.exe
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\bin\Debug\net6.0\lecture_4_arithmetic.deps.json
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\bin\Debug\net6.0\lecture_4_arithmetic.runtimeconfig.json
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\bin\Debug\net6.0\lecture_4_arithmetic.dll
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\bin\Debug\net6.0\lecture_4_arithmetic.pdb
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.csproj.AssemblyReference.cache
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.AssemblyInfoInputs.cache
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.AssemblyInfo.cs
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.csproj.CoreCompileInputs.cache
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.dll
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\refint\lecture_4_arithmetic.dll
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.pdb
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\lecture_4_arithmetic.genruntimeconfig.cache
+D:\OneDrive - University of Engineering and Technology Taxila\Online Teaching\programming-course-resources\lecture_4_arithmetic\lecture_4_arithmetic\obj\Debug\net6.0\ref\lecture_4_arithmetic.dll
