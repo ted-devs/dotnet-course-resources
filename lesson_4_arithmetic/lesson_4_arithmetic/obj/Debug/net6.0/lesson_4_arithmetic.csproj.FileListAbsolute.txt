@@ -1,0 +1,15 @@
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\bin\Debug\net6.0\lesson_4_arithmetic.exe
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\bin\Debug\net6.0\lesson_4_arithmetic.deps.json
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\bin\Debug\net6.0\lesson_4_arithmetic.runtimeconfig.json
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\bin\Debug\net6.0\lesson_4_arithmetic.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\bin\Debug\net6.0\lesson_4_arithmetic.pdb
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.csproj.AssemblyReference.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.AssemblyInfoInputs.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.AssemblyInfo.cs
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.csproj.CoreCompileInputs.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\refint\lesson_4_arithmetic.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.pdb
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\lesson_4_arithmetic.genruntimeconfig.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_4_arithmetic\lesson_4_arithmetic\obj\Debug\net6.0\ref\lesson_4_arithmetic.dll

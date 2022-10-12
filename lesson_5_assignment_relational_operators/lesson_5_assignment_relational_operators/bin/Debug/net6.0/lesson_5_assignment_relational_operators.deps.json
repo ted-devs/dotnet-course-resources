@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lesson_5_assignment_relational_operators/1.0.0": {
+        "runtime": {
+          "lesson_5_assignment_relational_operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson_5_assignment_relational_operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
