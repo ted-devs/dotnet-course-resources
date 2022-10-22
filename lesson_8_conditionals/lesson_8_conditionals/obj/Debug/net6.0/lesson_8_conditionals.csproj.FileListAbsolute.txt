@@ -1,0 +1,15 @@
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\bin\Debug\net6.0\lesson_8_conditionals.exe
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\bin\Debug\net6.0\lesson_8_conditionals.deps.json
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\bin\Debug\net6.0\lesson_8_conditionals.runtimeconfig.json
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\bin\Debug\net6.0\lesson_8_conditionals.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\bin\Debug\net6.0\lesson_8_conditionals.pdb
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.csproj.AssemblyReference.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.AssemblyInfoInputs.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.AssemblyInfo.cs
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.csproj.CoreCompileInputs.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\refint\lesson_8_conditionals.dll
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.pdb
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\lesson_8_conditionals.genruntimeconfig.cache
+D:\OneDrive - UET Taxila\Online Teaching\programming-course-resources\lesson_8_conditionals\lesson_8_conditionals\obj\Debug\net6.0\ref\lesson_8_conditionals.dll
