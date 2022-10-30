@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lesson_12_loops_and_logic_guard_clause/1.0.0": {
+        "runtime": {
+          "lesson_12_loops_and_logic_guard_clause.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson_12_loops_and_logic_guard_clause/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
